@@ -1,0 +1,121 @@
+{
+  "categorias": [
+    {
+      "titulo": "Front End",
+      "cor": "#B0B009",
+      "link_extra": {
+        "text": "Formação de Front End na Alura",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      },
+      "videos": [
+        {
+          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+        },
+        {
+          "titulo": "SEO com React",
+          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+        },
+        {
+          "titulo": "Componentização com VanillaJS #AluraMais",
+          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+        },
+        {
+          "titulo": "Pare de chutar e aprenda a display: inline #01",
+          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+        },
+        {
+          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
+          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+        },
+        {
+          "titulo": "Base para aprender os frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        }        
+      ]
+    },
+    {
+      "titulo": "UI/UX Design",
+      "cor": "#B04312",
+      "link_extra": {
+        "text": "Cursos de Design & UX na Alura",
+        "url": "https://www.alura.com.br/cursos-online-design-ux"
+      },
+      "videos": [
+        {
+          "titulo": "O que é e o que faz quem trabalha com UX? User Experience e Usabilidade #HipstersPontoTech",
+          "url": "https://www.youtube.com/watch?v=FJhMCi07T4A"
+        },
+        {
+          "titulo": "Como Começar em UX Design: Absolutamente TUDO que você precisa saber",
+          "url": "https://www.youtube.com/watch?v=MFQcGDO67JU"
+        },
+        {
+          "titulo": "Adobe XD Basics | Top 10 Things to know when getting started with Adobe XD",
+          "url": "https://www.youtube.com/watch?v=JttI6YpmPGI"
+        },
+        {
+          "titulo": "Tutorial Completo de FIGMA - Ferramenta GRÁTIS para Design de Interfaces",
+          "url": "https://www.youtube.com/watch?v=vg-INqhKD5c&t=2066s"
+        },
+        {
+          "titulo": "Don Norman: O termo \"UX\"",
+          "url": "https://www.youtube.com/watch?v=9BdtGjoIN4E"
+        }        
+      ]
+    },
+    {
+      "titulo": "Música",
+      "cor": "#5F12B0",
+      "videos": [
+        {
+          "titulo": "Joji - Sanctuary (Official Video)",
+          "url": "https://www.youtube.com/watch?v=YWN81V7ojOE"
+        },
+        {
+          "titulo": "Oliver Tree - I'm Gone [Official Music Video]",
+          "url": "https://www.youtube.com/watch?v=BLSRufOAHTQ"
+        },
+        {
+          "titulo": "The Strokes - At The Door (Official Video)",
+          "url": "https://www.youtube.com/watch?v=9CAz_vvsK9M"
+        },
+        {
+          "titulo": "Tove Lo - Are U gonna tell her? ft. MC Zaac",
+          "url": "https://www.youtube.com/watch?v=RQweYwfEmtw"
+        },
+        {
+          
+          "titulo": "MV | Jack Stauber - Buttercup",
+          "url": "https://www.youtube.com/watch?v=eYDI8b5Nn5s"
+        },
+        {
+          "titulo": "twenty one pilots - Chlorine (Official Video)",
+          "url": "https://www.youtube.com/watch?v=eJnQBXmZ7Ek"
+        }    
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "#12B09D",
+      "videos": [
+        {
+          "titulo": "Zootopia",
+          "url": "https://www.youtube.com/watch?v=prct6AB5tR8"
+        },
+        {
+          "titulo": "Blade Runner - O Caçador de Andróides • Trailer • Clássicos Cinemark",
+          "url": "https://www.youtube.com/watch?v=OMiCCnauM1Q"
+        },
+        {
+          "titulo": "Coco",
+          "url": "https://www.youtube.com/watch?v=5sSMRg1X1vg"
+        },
+        {
+          "titulo": "Parasita (trailer oficial)",
+          "url": "https://www.youtube.com/watch?v=o71PICFvPcY"
+        }
+      ]
+    }
+  ]
+}
