@@ -1,4 +1,10 @@
 import styled from 'styled-components';
+import bg1 from '../../assets/img/bg1.png'
+import bg2 from '../../assets/img/bg2.png'
+import bg3 from '../../assets/img/bg3.png'
+import bg4 from '../../assets/img/bg4.png'
+import bg5 from '../../assets/img/bg5.png'
+import bg6 from '../../assets/img/bg6.png'
 
 export const ContentAreaContainer = styled.section`
   margin-left: 5%;
@@ -69,9 +75,43 @@ export const BannerMainContainer = styled.section`
   height: 80vh;
   position: relative;
   color: #fff;
-  background-image: ${({ backgroundImage }) => `url(${backgroundImage})`}; 
+  /* background-image: ${({ backgroundImage }) => `url(${backgroundImage})`};  */
+  background-image: url(${bg1});
   background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  transition: 5s;
+
+  animation-name: animate;
+  animation-direction: alternate-reverse;
+  animation-duration: 30s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-play-state: running;
+  animation-timing-function: ease-in-out;
+
+  @keyframes animate{
+    0%{
+      background-image:url(${bg2});
+    }
+    20%{
+      background-image:url(${bg3});
+    }
+    40%{
+      background-image:url(${bg4});
+    }
+    60%{
+      background-image:url(${bg5});
+    }
+    80%{
+      background-image:url(${bg6});
+    }
+    100%{
+      background-image:url(${bg1});
+    }
+  }
+
   @media (max-width: 800px) {
     height: auto;
     min-height: 50vh;
