@@ -1,119 +1,120 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Anfíbios",
       "cor": "#B0B009",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Quer saber o que sapo e CSS tem a ver?",
+        "url": "https://flexboxfroggy.com/#pt-br"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "7 Ranas Más Venenosas Y Peligrosas Del Mundo",
+          "url": "https://www.youtube.com/watch?v=Vzmm2xF_FZo"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Aventura Selvagem - Universo dos Anfíbios 27/07/13 - Parte 2",
+          "url": "https://www.youtube.com/watch?v=TeRyJ1cNpt4"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "O Mundo Secreto dos Jardins - 31 - Anuros",
+          "url": "https://www.youtube.com/watch?v=wZ8SiLxDul0"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Wild Discovery: curiosidades salvajes",
+          "url": "https://www.youtube.com/watch?v=3jdlRleaabc"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Aventura Selvagem - Universo dos Anfíbios 27/07/13 - Parte 1",
+          "url": "https://www.youtube.com/watch?v=5GwBhbeTz-c"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "5 Rãs Mais Venenosas do Mundo",
+          "url": "https://www.youtube.com/watch?v=HIPEsrkBEwU"
         }        
       ]
     },
     {
-      "titulo": "UI/UX Design",
-      "cor": "#B04312",
+      "titulo": "Marinhos",
+      "cor": "#201f5b",
       "link_extra": {
-        "text": "Cursos de Design & UX na Alura",
-        "url": "https://www.alura.com.br/cursos-online-design-ux"
+        "text": "Uma verdadeira imersão"
       },
       "videos": [
         {
-          "titulo": "O que é e o que faz quem trabalha com UX? User Experience e Usabilidade #HipstersPontoTech",
-          "url": "https://www.youtube.com/watch?v=FJhMCi07T4A"
+          "titulo": "Tubarões - O maior predador dos mares - documentário de animais DUBLADO",
+          "url": "https://www.youtube.com/watch?v=kR_ObizjU0s"
         },
         {
-          "titulo": "Como Começar em UX Design: Absolutamente TUDO que você precisa saber",
-          "url": "https://www.youtube.com/watch?v=MFQcGDO67JU"
+          "titulo": "Documentário Orcas- os predadores mais temidos dos oceanos",
+          "url": "https://www.youtube.com/watch?v=Gz3xVs1wiI8"
         },
         {
-          "titulo": "Adobe XD Basics | Top 10 Things to know when getting started with Adobe XD",
-          "url": "https://www.youtube.com/watch?v=JttI6YpmPGI"
+          "titulo": "11 Criaturas Mais Surpreendentes da Fossa das Marianas",
+          "url": "https://www.youtube.com/watch?v=SIFS4gpfUuw"
         },
         {
-          "titulo": "Tutorial Completo de FIGMA - Ferramenta GRÁTIS para Design de Interfaces",
-          "url": "https://www.youtube.com/watch?v=vg-INqhKD5c&t=2066s"
+          "titulo": "LOS COLORES DEL AGUA - Documental Naturaleza HD 1080p - Grandes Documentales",
+          "url": "https://www.youtube.com/watch?v=sfWqabJ-bcE"
         },
         {
-          "titulo": "Don Norman: O termo \"UX\"",
-          "url": "https://www.youtube.com/watch?v=9BdtGjoIN4E"
+          "titulo": "El maravilloso mundo de los crustáceos",
+          "url": "https://www.youtube.com/watch?v=pDlaS6xIjx0"
         }        
       ]
     },
     {
-      "titulo": "Música",
+      "titulo": "Répteis",
       "cor": "#5F12B0",
+      "link_extra": {
+        "text": "Rápidos e rasteiros!"
+      },
       "videos": [
         {
-          "titulo": "Joji - Sanctuary (Official Video)",
-          "url": "https://www.youtube.com/watch?v=YWN81V7ojOE"
+          "titulo": "Indonésia Selvagem Ep. 05 HD - Animal Planet",
+          "url": "https://www.youtube.com/watch?v=auWnXli71GA"
         },
         {
-          "titulo": "Oliver Tree - I'm Gone [Official Music Video]",
-          "url": "https://www.youtube.com/watch?v=BLSRufOAHTQ"
+          "titulo": "Quando Éramos Répteis - documentário dublado em português",
+          "url": "https://www.youtube.com/watch?v=KcUoxOE2Ie8"
         },
         {
-          "titulo": "The Strokes - At The Door (Official Video)",
-          "url": "https://www.youtube.com/watch?v=9CAz_vvsK9M"
+          "titulo": "Répteis que Você VAI QUERER ter em Casa",
+          "url": "https://www.youtube.com/watch?v=_lPa1E1FkzI"
         },
         {
-          "titulo": "Tove Lo - Are U gonna tell her? ft. MC Zaac",
-          "url": "https://www.youtube.com/watch?v=RQweYwfEmtw"
+          "titulo": "Historias da Vida na Terra - Ep.4 - Repteis",
+          "url": "https://www.youtube.com/watch?v=5gm8S8R8cvk"
         },
         {
           
-          "titulo": "MV | Jack Stauber - Buttercup",
-          "url": "https://www.youtube.com/watch?v=eYDI8b5Nn5s"
-        },
-        {
-          "titulo": "twenty one pilots - Chlorine (Official Video)",
-          "url": "https://www.youtube.com/watch?v=eJnQBXmZ7Ek"
-        }    
+          "titulo": "Documentario Animal - O Mundo das Cobras",
+          "url": "https://www.youtube.com/watch?v=j7SOdbc7ZDw"
+        }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Insetos",
       "cor": "#12B09D",
+      "link_extra": {
+        "text": "Aqui os bugs estão liberados"
+      },
       "videos": [
         {
-          "titulo": "Zootopia",
-          "url": "https://www.youtube.com/watch?v=prct6AB5tR8"
+          "titulo": "Documentário Br - O Mundo Dos Insetos",
+          "url": "https://www.youtube.com/watch?v=McmJgnfrlq4"
         },
         {
-          "titulo": "Blade Runner - O Caçador de Andróides • Trailer • Clássicos Cinemark",
-          "url": "https://www.youtube.com/watch?v=OMiCCnauM1Q"
+          "titulo": "Documentário: Instintos de Sobrevivência - Insetos incríveis",
+          "url": "https://www.youtube.com/watch?v=D1oEOdpfQw4"
         },
         {
-          "titulo": "Coco",
-          "url": "https://www.youtube.com/watch?v=5sSMRg1X1vg"
+          "titulo": "As Aranhas incríveis da natureza",
+          "url": "https://www.youtube.com/watch?v=B8xhWHRYjEc"
         },
         {
-          "titulo": "Parasita (trailer oficial)",
-          "url": "https://www.youtube.com/watch?v=o71PICFvPcY"
+          "titulo": "Kung Fu Mantis Vs Jumping Spider | Life Story | BBC",
+          "url": "https://www.youtube.com/watch?v=7wKu13wmHog"
         }
       ]
     }
