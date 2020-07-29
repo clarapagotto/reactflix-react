@@ -28,7 +28,23 @@
       work correctly both with client-side routing and a non-root public URL.
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
-    <title>Claraflix</title>
+    <title>Animalflix</title>
+    <!-- configuracoes na scrollbar -->
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style>
+      ::-webkit-scrollbar {
+        width: 10px;
+        height: 15px;
+      }
+      ::-webkit-scrollbar-thumb {
+        background: grey;
+        border-radius: 5px;
+        height: 5px;
+      }
+      ::-webkit-scrollbar-thumb:hover {
+        background: #333;
+      }
+    </style>
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
