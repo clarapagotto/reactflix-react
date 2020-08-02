@@ -2,8 +2,8 @@
     "categorias": [
         {
             "id": "1",
-            "name": "teste",
-            "description": "teste",
+            "name": "Felinos",
+            "description": "Vídeos relacionados a felinos",
             "color": "#6bd1ff"
         }
     ]
